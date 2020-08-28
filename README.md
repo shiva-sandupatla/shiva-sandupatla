@@ -26,9 +26,9 @@
 <br />
 <!----
 ### Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-sandupatla)
 -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-sandupatla)-->
+
 ### Tools:
 
 
@@ -53,13 +53,13 @@
 ---
 
 
-
+<!--
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="shiva's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shiva-sandupatla&show_icons=true&hide_border=true" />
-
-</details>
+-->
+ <!-- <img align="left" alt="shiva's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shiva-sandupatla&show_icons=true&hide_border=true" />
+--
+</details>-->
 
 
 
