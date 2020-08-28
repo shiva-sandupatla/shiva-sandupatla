@@ -53,6 +53,6 @@
 </details>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-sandupatla)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-sandupatla)
 
 
