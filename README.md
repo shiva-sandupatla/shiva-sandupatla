@@ -48,9 +48,11 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shiva-sandupatla&show_icons=true&hide_border=true" />
+  <img align="left" alt="shiva's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shiva-sandupatla&show_icons=true&hide_border=true" />
 
 </details>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-sandupatla)](https://github.com/anuraghazra/github-readme-stats)
 
 
