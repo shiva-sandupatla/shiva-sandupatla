@@ -4,7 +4,7 @@
 
 ## I am Developer and student!
 
-- 🔭 I am currently working on our creator [website!](https://www.blockysite.com)
+- 🔭 I am currently working on our creator website
 - 🌱 I am currently learning everything 🤣
 - 👯 I am looking to collaborate with other content creators.
 - 🥅 2020 Goals: To see people developing websites without single line of code.
