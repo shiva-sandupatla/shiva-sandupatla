@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
-
-## I am Developer and student!
+# Hi there, I'm shiva 👋
+### I am Developer and student! 
 
 - 🔭 I am currently working on our creator website
 - 🌱 I am currently learning everything 🤣
