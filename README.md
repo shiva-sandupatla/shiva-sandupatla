@@ -26,7 +26,7 @@
 -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-sandupatla)-->
 
-### Tools i am using:
+### Tools i use:
 
 
 
