@@ -16,7 +16,6 @@
 [<img align="left" alt="shiva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SandupatlaShiva)
 [<img align="left" alt="shiva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/the_bug_finder/)
 [<img align="left" alt="shiva | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg" />](https://github.com/Shiva-sandupatla)
-[<img align="left" alt="shiva | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" />](https://www.facebook.com/shivathebugfinder)
 [<img align="left" alt="shiva | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg" />](https://www.linkedin.com/in/sandupatla-shiva-b61883141)
 
 
