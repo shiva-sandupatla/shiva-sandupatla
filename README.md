@@ -1,8 +1,10 @@
 Hi 👋 My name is Shiva sandupatla
 =================================
 
-Web developer
+Web developer 
 -------------
+
+![](https://visitor-badge.glitch.me/badge?page_id=shiva-sandupatla&style=flat-square&color=0088cc)
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shiva@blockysite.com](mailto:shiva@blockysite.com)
