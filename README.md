@@ -6,7 +6,7 @@ Web developer
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shiva-sandupatla&style=flat-square&color=0088cc)
 
-* 🌍  I'm based in India
+* 🌍  I'm from India
 * ✉️  You can contact me at [shiva@blockysite.com](mailto:shiva@blockysite.com)
 * 🚀  I'm currently working on [BlockySite](http://blockysite.com)
 * 🧠  I'm learning Everything
