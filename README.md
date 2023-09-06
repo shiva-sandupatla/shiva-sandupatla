@@ -3,14 +3,11 @@ Hi 👋 My name is Shiva sandupatla
 
 Web developer 
 -------------
-
-![](https://visitor-badge.glitch.me/badge?page_id=shiva-sandupatla&style=flat-square&color=0088cc)
-
 * 🌍  I'm from India
 * ✉️  You can contact me at [shiva@blockysite.com](mailto:shiva@blockysite.com)
-* 🚀  I'm currently working on [BlockySite](http://blockysite.com)
+* 🚀  I'm currently working on [BlockySite](https://blockysite.com)
 * 🧠  I'm learning Everything
-* 🤝  I'm open to collaborating on Content creators and all my fellow coders
+* 🤝  I'm open to collaborating with Content creators and all my fellow coders
 
 <a href="https://www.twitter.com/Sandupatlashiva" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Sandupatlashiva?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -53,7 +50,6 @@ src="https://img.shields.io/github/followers/shiva-sandupatla?logo=github&style=
 
 <a href="http://www.github.com/shiva-sandupatla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-sandupatla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/shiva-sandupatla"><img src="https://activity-graph.herokuapp.com/graph?username=shiva-sandupatla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/shiva-sandupatla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-sandupatla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
