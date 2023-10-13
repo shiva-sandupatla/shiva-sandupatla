@@ -54,7 +54,7 @@ src="https://img.shields.io/github/followers/shiva-sandupatla?logo=github&style=
 <a href="https://github.com/shiva-sandupatla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-sandupatla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=kiransagar1&column=8&theme=onedark&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=shiva-sandupatla&theme=onedark&no-frame=true&no-bg=true" />
 
 ### Support Me
 
