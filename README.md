@@ -5,7 +5,6 @@ Web developer
 -------------
 * 🌍  I'm from India
 * ✉️  You can contact me at [sandupatlashiva2@gmail.com](mailto:sandupatlashiva2@gmail.com)
-<!--* 🚀  I'm currently working on [BlockySite](https://blockysite.com)-->
 * 🧠  I'm learning Everything
 * 🤝  I'm open to collaborating with Content creators and all my fellow coders
 
